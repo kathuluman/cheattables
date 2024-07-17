@@ -1,1 +1,13 @@
-Here you will find future updates and frequently asked questions and explnations on how to navigate this cheat table.
+============================ HOW TO USE THIS CHEAT TABLE ============================
+Info =======
+There are a few things that are a work in progress here such as the casino cheats which I am still working on. 
+This is my first cheat table that I recently started developing around 3 days ago for GTAV.
+With this cheat table you will have the ability to have some good cheats which could make doing hiests 
+or missions easier wich as infinate ammo, no reload, and much more.
+
+UPDATE JUL 17 2024 +++++++++++++++++++++
+1.) Added better UI Aesthetic a compact view so you can focus on your cheat table and nothing more.
+2.) Fixed some bugged code that would allow NPC's to have God Mode.
+3.) Added Wanted Level Editor
+4.) Added No wanted level cheat to have no wanted level
+4.) Changed Font type to (Italic, serif)
