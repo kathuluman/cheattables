@@ -10,4 +10,19 @@ UPDATE JUL 17 2024 +++++++++++++++++++++
 2.) Fixed some bugged code that would allow NPC's to have God Mode.
 3.) Added Wanted Level Editor
 4.) Added No wanted level cheat to have no wanted level
-4.) Changed Font type to (Italic, serif)
+4.) Changed Font type to (Italic bold sans)
+
+HOW TO USE *****************************
+          GOD MODE
+When using god mode there is a drop down menu which if you doubble click under the Value column there 
+is an option select it and make sure it is enabled.
+
+
+        WANTED LEVEL
+
+In order to use wanted level modification first you will need to enable "Enable Modifications".
+This will find the addresses associated with wanted level, under wanted stars doubble click under the 
+Value column and there is a drop down where you can edit your wanted level from 0-5.
+
+As for No wanted level it is the same principal enable it and go to the drop down and click the Enable
+drop down option.
