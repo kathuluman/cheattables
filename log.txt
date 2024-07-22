@@ -5,6 +5,12 @@ This is my first cheat table that I recently started developing around 3 days ag
 With this cheat table you will have the ability to have some good cheats which could make doing hiests 
 or missions easier wich as infinate ammo, no reload, and much more.
 
+UPDATE JUL 21 2024 +++++++++++++++++++++
+1.) Added better UI Aesthetic a compact view so you can focus on your cheat table and nothing more.
+2.) Added HotKeys for easier use
+3.) Added menu button that displays hotkeys for users to use.
+
+
 UPDATE JUL 17 2024 +++++++++++++++++++++
 1.) Added better UI Aesthetic a compact view so you can focus on your cheat table and nothing more.
 2.) Fixed some bugged code that would allow NPC's to have God Mode.
